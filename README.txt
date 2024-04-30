@@ -1,0 +1,2 @@
+Conclusion:
+This example project demonstrates how to use AWS CLI to automate the setup of an AWS Lambda function triggered by an Amazon S3 event. Each step is performed using AWS CLI commands to create resources, configure permissions, and set up event notifications. This project can be further extended and customized based on specific requirements and use cases.
